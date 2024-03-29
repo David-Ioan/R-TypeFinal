@@ -1,0 +1,27 @@
+﻿  Init.c
+  collision.c
+  controle.c
+  ennemi1.c
+C:\Users\rusda\source\repos\Rtype2\Rtype2\ennemi1.c(24,11): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\rusda\source\repos\Rtype2\Rtype2\ennemi1.c(73,15): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  fenetre.c
+C:\Users\rusda\source\repos\Rtype2\Rtype2\fenetre.c(52,18): warning C4047: 'fonction' : les niveaux d'indirection de 'SDL_Surface *' et de 'SDL_Surface *[2]' sont différents
+C:\Users\rusda\source\repos\Rtype2\Rtype2\fenetre.c(52,18): warning C4024: 'SDL_FreeSurface' : types différents pour le paramètre formel et réel 1
+C:\Users\rusda\source\repos\Rtype2\Rtype2\fenetre.c(53,18): warning C4047: 'fonction' : les niveaux d'indirection de 'SDL_Surface *' et de 'SDL_Surface *[7]' sont différents
+C:\Users\rusda\source\repos\Rtype2\Rtype2\fenetre.c(53,18): warning C4024: 'SDL_FreeSurface' : types différents pour le paramètre formel et réel 1
+  main.c
+C:\Users\rusda\source\repos\Rtype2\Rtype2\main.c(3,12): warning C4026: fonction déclarée avec une liste de paramètres formels
+  projectile.c
+  score.c
+  son.c
+C:\Users\rusda\source\repos\Rtype2\Rtype2\son.c(13,11): warning C4133: '=' : types incompatibles - de 'Mix_Chunk *' à 'Mix_Music *'
+C:\Users\rusda\source\repos\Rtype2\Rtype2\son.c(14,7): warning C4133: '=' : types incompatibles - de 'Mix_Chunk *' à 'Mix_Music *'
+C:\Users\rusda\source\repos\Rtype2\Rtype2\son.c(15,15): warning C4133: '=' : types incompatibles - de 'Mix_Chunk *' à 'Mix_Music *'
+C:\Users\rusda\source\repos\Rtype2\Rtype2\son.c(20,8): warning C4133: '=' : types incompatibles - de 'Mix_Chunk *' à 'Mix_Music *'
+C:\Users\rusda\source\repos\Rtype2\Rtype2\son.c(25,3): warning C4133: 'fonction' : types incompatibles - de 'Mix_Music *' à 'Mix_Chunk *'
+C:\Users\rusda\source\repos\Rtype2\Rtype2\son.c(28,3): warning C4133: 'fonction' : types incompatibles - de 'Mix_Music *' à 'Mix_Chunk *'
+C:\Users\rusda\source\repos\Rtype2\Rtype2\son.c(33,4): warning C4133: 'fonction' : types incompatibles - de 'Mix_Music *' à 'Mix_Chunk *'
+C:\Users\rusda\source\repos\Rtype2\Rtype2\son.c(36,4): warning C4133: 'fonction' : types incompatibles - de 'Mix_Music *' à 'Mix_Chunk *'
+  vaisseau.c
+  Génération de code en cours...
+  Rtype2.vcxproj -> C:\Users\rusda\source\repos\Rtype2\x64\Debug\Rtype2.exe
